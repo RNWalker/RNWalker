@@ -17,7 +17,7 @@ With a solid foundation in critical thinking, research, and interpersonal skills
 I am commited to leveraging technology for positive change, and I am particularly enthusiastic about leveraging innovation to enhance healthcare delivery. 
 
 
-- 🔭 I’m currently working on JavaScript, CSS and HTML for a frontend project
+- 🔭 I’m currently working on the BNTA Hackathon! The theme is using AI to promote diversity and inclusion in the workforce.
 
 - 📫 How to reach me: rebecca.noelia.walker@gmail.com
   
