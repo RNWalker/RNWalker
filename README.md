@@ -1,6 +1,5 @@
 
-![Brown   Beige Simple Personal LinkedIn Banner](https://github.com/RNWalker/RNWalker/assets/78052216/54ec2b74-d1e1-4498-a4f6-ff2e29d18c64)
-
+![Brown   Beige Simple Personal LinkedIn Banner (1)](https://github.com/RNWalker/RNWalker/assets/78052216/94a09190-e746-48ab-be70-53db44d10262)
 
 
 <h1>Hi, I'm Rebecca 👋</h1>
