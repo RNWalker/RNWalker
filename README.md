@@ -13,10 +13,10 @@ I recently completed my medical degree, and my passion for technology is deeply 
 
 With a solid foundation in critical thinking, research, and interpersonal skills gained from my medical background, I am well-prepared to excel in the dynamic realm of technology.
 
-I am commited to leveraging technology for positive change, and I am particularly enthusiastic about leveraging innovation to enhance healthcare delivery. 
+I am committed to leveraging technology for positive change.
 
 
-- 🔭 I’m currently working on the BNTA Hackathon! The theme is using AI to promote diversity and inclusion in the workforce.
+- 🔭 I’m currently working on data science and gaming projects!
 
 - 📫 How to reach me: rebecca.noelia.walker@gmail.com
   
