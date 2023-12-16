@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started: -->
 
-I recently completed my medical degree, and my passion for technology is deeply rooted in my belief that it offers a powerful avenue to amplify my impact and embark on new paths of creative problem-solving. 
+Having recently completed my medical degree, I am passionate about technology as I believe it offers a powerful avenue to amplify my impact and embark on new paths of creative problem-solving. 
 
 With a solid foundation in critical thinking, research, and interpersonal skills gained from my medical background, I am well-prepared to excel in the dynamic realm of technology.
 
