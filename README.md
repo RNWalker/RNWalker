@@ -16,7 +16,7 @@ With a solid foundation in critical thinking, research, and interpersonal skills
 I am committed to leveraging technology for positive change.
 
 
-- 🔭 I’m currently working on data science and gaming projects!
+- 🔭 I’m currently working on data science and gaming projects! I'm using the Data Science career track on DataCamp to learn all things data with Python.
 
 - 📫 How to reach me: rebecca.noelia.walker@gmail.com
   
