@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 
 Having recently completed my medical degree, I am passionate about technology as I believe it offers a powerful avenue to amplify my impact and embark on new paths of creative problem-solving. 
 
-With a solid foundation in critical thinking, research, and interpersonal skills gained from my medical background, I am well-prepared to excel in the dynamic realm of technology.
+With a solid foundation in critical thinking, research, and interpersonal skills, I am well-prepared to excel in the dynamic realm of technology.
 
 I am committed to leveraging technology for positive change.
 
